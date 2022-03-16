@@ -1,4 +1,4 @@
-# React Resume
+# React-Resume
 
 This project is a resume created with React.
 
